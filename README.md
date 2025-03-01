@@ -12,16 +12,14 @@
 🚀 **UX/UI & Software Developer**  
 🎓 **IT Student @ Pace University**  
 
-🏗 **Algorithmic Crafting | 📸 **Polaroid Camera Collector**  
-🤿 **Scuba Dive Master** | 🐶 **French Bulldog Lover**
+🏗 **Algorithmic Crafting** | 📸 **Polaroid Camera Collector**  
+🤿 **Scuba Dive Master** | 🐶 **French Bulldog Lover**  
 
 💡 **Passionate About:**  
 Creative Tech, Ethical Design & Data Privacy  
 
 🍓 **Foodie:** Mastered the Perfect Crepe Recipe!  
 🗽 **Brooklyn-Based**
-
-
 
 ---
 
@@ -30,13 +28,24 @@ Creative Tech, Ethical Design & Data Privacy
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwilly1&layout=compact&theme=tokyonight&langs_count=6&card_width=500" />
 </p>
 
+---
 
- <p align="center">
-  <img src="https://raw.githubusercontent.com/Rwilly1/Rwilly1/main/github-contribution-grid-snake.svg" />
+## 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rwilly1/Rwilly1/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
 
-
+## 🚀 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/remington-williams/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/remington-williams/"/>
+  </a>
+  <a href="mailto:rw53783n@pace.edu">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ## 🚀 Let's Connect!
 <p align="center">
