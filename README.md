@@ -10,10 +10,11 @@
 <div align="left">
 
 🚀 **UX/UI & Software Developer** | 🎓 **IT Student @ Pace University**  
-🐶 **French Bulldog Lover** | 📸 **Polaroid Camera Collector** |
+🐶 **French Bulldog Lover** | 📸 **Polaroid Camera Collector** | 🤿 **Scuba Dive Master** 
 💡 **Passionate About:** Creative Tech, Ethical Design & Data Privacy  
-🧵 **Algorithmic Crafting & Interactive Interfaces** |  🤿 **Scuba Dive Master** 
-🍓 **Foodie: Mastered the Perfect Crepe Recipe!**  🗽 **Brooklyn-Based**
+🧵 **Algorithmic Crafting & Interactive Interfaces** |  
+🍓 **Foodie: Mastered the Perfect Crepe Recipe!**  
+🗽 **Brooklyn-Based**
   
 </div>
 
