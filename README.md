@@ -32,9 +32,8 @@ Creative Tech, Ethical Design & Data Privacy
 
 ---
 
-## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rwilly1&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" width="700"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=vf6nn8jlk1u9n3g2c8b3mit2h&cover_image=true&theme=novatorem" />
 </p>
 
 ---
