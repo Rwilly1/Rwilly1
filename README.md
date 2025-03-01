@@ -12,8 +12,8 @@
 🚀 **UX/UI & Software Developer**  
 🎓 **IT Student @ Pace University**  
 
-🐶 **French Bulldog Lover** | 📸 **Polaroid Camera Collector**  
-🤿 **Scuba Dive Master** | 🏗 **Algorithmic Crafting & Interactive Interfaces**  
+🏗 **Algorithmic Crafting | 📸 **Polaroid Camera Collector**  
+🤿 **Scuba Dive Master** | 🐶 **French Bulldog Lover**
 
 💡 **Passionate About:**  
 Creative Tech, Ethical Design & Data Privacy  
