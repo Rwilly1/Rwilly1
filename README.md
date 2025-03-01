@@ -9,7 +9,7 @@
 ## 🎨 About Me  
 <p align="center">
 💻 UX/UI & Software Developer | 🎓 IT Student @ Pace University  
-🐶 French Bulldog Enthusiast | 📸 Polaroid Camera Collector  
+🐶 French Bulldog Enthusiast | 📸 Polaroid Camera Collector | 🤿 Scuba Dive Master 
 🗽 Living in Brooklyn, NYC  
 </p>
 
