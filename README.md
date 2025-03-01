@@ -31,6 +31,11 @@ Creative Tech, Ethical Design & Data Privacy
 </p>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rwilly1/Rwilly1/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ## 🚀 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/remington-williams/" target="_blank">
