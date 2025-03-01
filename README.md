@@ -25,7 +25,7 @@
 <h2 align="center">📊 GitHub Stats & Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwilly1&layout=compact&theme=tokyonight&langs_count=6&card_width=500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwilly1&layout=compact&theme=tokyonight&langs_count=6&card_width=500&count_private=true" />
 </p>
 
 ---
