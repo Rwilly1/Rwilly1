@@ -8,9 +8,13 @@
 
 ## 🎨 About Me  
 <p align="center">
-💻 UX/UI & Software Developer | 🎓 IT Student @ Pace University  
-🐶 French Bulldog Enthusiast | 📸 Polaroid Camera Collector | 🤿 Scuba Dive Master 
-🗽 Living in Brooklyn, NYC  
+  
+🚀 UX/UI & Software Developer | 🎓 IT Student @ Pace University 
+🐶 French Bulldog Lover | 📸 Polaroid Camera Collector | 🤿 Scuba Dive Master
+💡 Passionate About Creative Tech, Ethical Design & Data Privacy  
+🧵 Algorithmic Crafting & Interactive Interfaces| 
+🍓 Foodie Mastered the Perfect Crepe Recipe! | 🗽 Brooklyn-Based
+
 </p>
 
 ---
