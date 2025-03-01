@@ -46,13 +46,3 @@ Creative Tech, Ethical Design & Data Privacy
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-## 🚀 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/remington-williams/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/remington-williams/"/>
-  </a>
-  <a href="mailto:rw53783n@pace.edu">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
