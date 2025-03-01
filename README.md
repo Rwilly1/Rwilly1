@@ -31,9 +31,10 @@ Creative Tech, Ethical Design & Data Privacy
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rwilly1/Rwilly1/output/github-contribution-grid-snake.svg" />
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/Rwilly1/Rwilly1/main/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 
