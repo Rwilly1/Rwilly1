@@ -32,7 +32,7 @@ Creative Tech, Ethical Design & Data Privacy
 
 ## 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rwilly1/Rwilly1/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Rwilly1/Rwilly1/main/dist/github-contribution-grid-snake.svg?v=1" />
 </p>
 
 ---
