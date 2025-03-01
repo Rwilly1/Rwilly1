@@ -7,16 +7,20 @@
 ---
 
 ## 🎨 About Me  
-<div align="left">
+---
 
-🚀 **UX/UI & Software Developer** | 🎓 **IT Student @ Pace University**  
-🐶 **French Bulldog Lover** | 📸 **Polaroid Camera Collector** | 🤿 **Scuba Dive Master** 
-💡 **Passionate About:** Creative Tech, Ethical Design & Data Privacy  
-🧵 **Algorithmic Crafting & Interactive Interfaces** |  
-🍓 **Foodie: Mastered the Perfect Crepe Recipe!**  
+🚀 **UX/UI & Software Developer**  
+🎓 **IT Student @ Pace University**  
+
+🐶 **French Bulldog Lover** | 📸 **Polaroid Camera Collector**  
+🤿 **Scuba Dive Master** | 🏗 **Algorithmic Crafting & Interactive Interfaces**  
+
+💡 **Passionate About:**  
+Creative Tech, Ethical Design & Data Privacy  
+
+🍓 **Foodie:** Mastered the Perfect Crepe Recipe!  
 🗽 **Brooklyn-Based**
-  
-</div>
+
 
 
 ---
