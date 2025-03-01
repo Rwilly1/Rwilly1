@@ -30,13 +30,6 @@ Creative Tech, Ethical Design & Data Privacy
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwilly1&layout=compact&theme=tokyonight&langs_count=6&card_width=500" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=vf6nn8jlk1u9n3g2c8b3mit2h&cover_image=true&theme=novatorem" />
-</p>
-
----
 
 ## 🚀 Let's Connect!
 <p align="center">
