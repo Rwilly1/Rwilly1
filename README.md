@@ -7,7 +7,7 @@
 ---
 
 ## 🎨 About Me  
-<div align="right">
+<div align="left">
 
 🚀 **UX/UI & Software Developer** | 🎓 **IT Student @ Pace University**  
 🐶 **French Bulldog Lover** | 📸 **Polaroid Camera Collector** | 🤿 **Scuba Dive Master**  
