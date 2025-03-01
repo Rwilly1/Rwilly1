@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnkwdmo3ZDFtbzU4ZWFzenVrNXp1ZGU4MG83YXJ3MHA2bGppbTMwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dV3GXudtLAbTi/giphy.gif" width="80%"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnkwdmo3ZDFtbzU4ZWFzenVrNXp1ZGU4MG83YXJ3MHA2bGppbTMwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dV3GXudtLAbTi/giphy.gif" width="60%" height="60%"/>
 </p>
+
 
 <h2 align="center">🎨 About Me</h2>
 
