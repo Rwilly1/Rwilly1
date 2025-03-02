@@ -24,7 +24,12 @@ jobs:
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "GitHub Actions"
-          git pull origin main --rebase  # Fetch latest changes to avoid conflicts
+
+          # Ensure no unstaged changes block the pull
+          git stash  # Temporarily store local changes
+          git pull origin main --rebase  # Pull latest changes safely
+          git stash pop || echo "No changes to restore"  # Restore stashed changes
+
+          # Add and commit only if there are changes
           git add dist/github-contribution-grid-snake.svg
-          git commit -m "Updated Contribution Snake Animation" || echo "No changes to commit"
-          git push origin main
+          git diff --cached --exit-code || (git commit -m "Updated Contribution Snake Animation" && git push origin main)
