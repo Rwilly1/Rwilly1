@@ -32,6 +32,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50px"/>
 </p>
 
+<h2 align="center">📊 Most Used Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rwilly1&layout=compact&theme=radical" />
+</p>
+
 <h2 align="center">🚀 Let's Connect!</h2>
 
 <p align="center">
